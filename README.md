@@ -1,4 +1,4 @@
-# 9V_USB_Mobile_Charger
+
 # 9V USB Mobile Charger
 
 A regulated 9V DC mobile charger designed and implemented using a step-down transformer, bridge rectifier, filter capacitor, and 7809 voltage regulator. The project was simulated in Proteus and implemented on hardware using a perfboard.
